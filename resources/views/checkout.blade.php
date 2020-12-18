@@ -55,10 +55,9 @@
 			<div class="collapse navbar-collapse" id="ftco-nav">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item active"><a href="/home" class="nav-link">Home</a></li>
-					<li class="nav-item"><a href="about" class="nav-link">About</a></li>
-					<li class="nav-item"><a href="/services" class="nav-link">Services</a></li>
-					<li class="nav-item cta"><a href="#" class="nav-link">Type Car</a></li>
-					<li class="nav-item"><a href="contact.html" class="nav-link">Contact us</a></li>
+					<li class="nav-item"><a href="/products" class="nav-link">Products</a></li>
+			
+					<li class="nav-item"><a href="/shoppingcart" class="nav-link">Shopping Cart</a></li>
 					
 
 				</ul>
